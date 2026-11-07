@@ -1,0 +1,5 @@
+{
+  "table2_accuracy": 0.991,
+  "table3_memory_reduction": 3.4,
+  "table4_latency_ms": 212
+}

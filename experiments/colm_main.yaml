@@ -1,0 +1,7 @@
+hidden_size: 4096
+num_heads: 32
+num_slots: 8192
+seq_len: 131072
+batch_size: 1
+steps: 2000
+lr: 0.0002
